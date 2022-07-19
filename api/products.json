@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "title": "Modal S",
+        "image": "model_s.jpg",
+        "description": "Model S Car",
+        "price": 23999.99
+    },
+    {
+        "id": "2",
+        "title": "Modal X",
+        "image": "model_x.jpg",
+        "description": "Model X Car",
+        "price": 29999.99
+    },
+    {
+        "id": "3",
+        "title": "Modal Y",
+        "image": "model_y.jpg",
+        "description": "Model Y Car",
+        "price": 26999.99   
+    }
+]
